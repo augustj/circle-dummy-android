@@ -16,3 +16,4 @@ test:
     - ./gradlew assembleDebug
     - bin/android-wait-for-emulator
     - bin/run-tests test.namespace
+
